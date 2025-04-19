@@ -1,24 +1,50 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/10161169?v=4" />
-   <h3 align="center">¡Hey 👋! Soy Mauro Sánchez 👨🏻‍💻🎮🍺</h3>
-</p>
-
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 6 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-   <a href="https://www.twitch.tv/theholycode" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
+  <img src="https://avatars.githubusercontent.com/u/10161169?v=4" width="200" />
+  <h2 align="center">¡Hey 👋! Soy <span style="color:#6C63FF">Mauro Sánchez</span> 👨🏻‍💻🎮🍺</h2>
+</p>
+
+<p align="center">
+  <strong>Desarrollador Full Stack JavaScript</strong><br />
+  +9 años de experiencia creando soluciones 🔥 desde el backend hasta el frontend.
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.twitch.tv/theholycode" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-   <a href="https://www.youtube.com/channel/UCROut3b1_tmEjGw4dX4fIOA" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://www.youtube.com/channel/UCROut3b1_tmEjGw4dX4fIOA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://twitter.com/MauroSanchez25" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://twitter.com/MauroSanchez25" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-    <a href="https://www.linkedin.com/in/mesanchez91" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://www.linkedin.com/in/mesanchez91" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-- 🔭 Actualmente estoy trabajando en ... The Holy Code
-- 🌱 Actualmente estoy aprendiendo ... HTML, CSS, TS, C ++
-- 💬 Pregúntame sobre ... BACKEND
+---
+
+### 🚀 Sobre mí
+
+- 🏢 Actualmente trabajando en **The Holy Code**
+- 🧠 Explorando nuevas tecnologías: **HTML, CSS, TypeScript, C++**
+- 💬 Me encanta hablar de **backend, arquitectura, microservicios y DevOps**
+- 🎯 Enfocado en crear software escalable, mantenible y con impacto real
+
+---
+
+### 📌 Experiencia destacada en LinkedIn
+
+🔗 [Visita mi perfil profesional](https://www.linkedin.com/in/mesanchez91/) para conocer más sobre mis proyectos, logros y certificaciones.
+
+---
+
+### ☕ Bonus:
+
+> “Code, learn, repeat. And never skip coffee.”
+
+---
+
